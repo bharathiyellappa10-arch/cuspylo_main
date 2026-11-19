@@ -1,0 +1,16 @@
+
+{
+  "name": "cuspylo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo Build completed",
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^4.21.2",
+    "pdf-lib": "^1.17.1",
+    "pg": "^8.23.1"
+  }
+}
